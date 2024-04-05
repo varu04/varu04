@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @varu04
+- 👋 Hi, I’m @varun nair
 - 👀 I’m interested in the intersection of economics, social sciences, maths and programming
 - 🌱 I’m currently learning sql to grasp the skills of database management and warehousing 
 - 💞️ I’m looking to collaborate on any projects in sql | economics data-work
